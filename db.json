@@ -1,0 +1,49 @@
+"producto": [
+    {
+      "idcategoria": 1,
+      "idproducto": 111,
+      "nombre": "Colores",  
+      "precio": 4
+    },
+     {
+      "idcategoria": 2,
+      "idproducto": 114,
+      "nombre": "Clips",      
+      "precio": 3
+    },
+    {
+      "idcategoria": 3,
+      "idproducto": 115,
+      "nombre": "Resaltador",     
+      "precio": 4
+    },
+    {
+      "idcategoria": 4,
+      "idproducto": 221,
+      "nombre": "Transportador",      
+      "precio": 1
+    },
+    {
+      "idcategoria": 5,
+      "idproducto": 222,
+      "nombre": "Regla",     
+      "precio": 1
+    },
+    {
+      "idcategoria": 6,
+      "idproducto": 223,
+      "nombre": "Calculadora",    
+      "precio": 15
+    },
+    {
+      "idcategoria": 7,
+      "idproducto": 224,
+      "nombre": "Portafolio",      
+      "precio": 20
+    }
+  ],
+  
+  "profile": {
+    "name": "typicode"
+  }
+}
